@@ -1,0 +1,30 @@
+[
+  {
+    "reviewId": 1,
+    "name": "Alice Green",
+    "image": "https://i.ibb.co/QCdPk2j/pexels-photo-789822.webp",
+    "review": "The dental staff were incredibly kind and professional. Great experience overall.",
+    "date": "2024-11-01"
+  },
+  {
+    "reviewId": 2,
+    "name": "Mark Wilson",
+    "image": "https://i.ibb.co/pRtM24R/pexels-photo-834863.webp",
+    "review": "Had a wonderful teeth cleaning session. The clinic was spotless and welcoming.",
+    "date": "2024-11-03"
+  },
+  {
+    "reviewId": 3,
+    "name": "Sophia Roberts",
+    "image": "https://i.ibb.co/1GXDj25/pexels-photo-1065084.jpg",
+    "review": "Exceptional service! My tooth extraction was quick and pain-free.",
+    "date": "2024-11-05"
+  },
+  {
+    "reviewId": 4,
+    "name": "James Carter",
+    "image": "https://i.ibb.co/qgV34gy/pexels-photo-1222271.jpg",
+    "review": "Highly skilled dentists and excellent customer care. I’m very satisfied.",
+    "date": "2024-11-07"
+  }
+]

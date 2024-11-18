@@ -1,0 +1,9 @@
+
+.active{
+    background-color: transparent !important;
+    color: yellow !important;
+    font-weight: bold !important;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

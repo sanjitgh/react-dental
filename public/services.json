@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "treatment": "Teeth Cleaning",
+    "image": "https://i.ibb.co/pJF9wsz/photo-1580821810660-5486b8e980a6.webp",
+    "description": "Professional teeth cleaning is a routine procedure performed by a dental hygienist or dentist to remove plaque and tartar buildup from your teeth. This treatment helps prevent cavities, gum disease, and bad breath while ensuring overall better oral health. Regular cleaning is essential to maintain a healthy smile and avoid long-term dental issues.",
+    "cost": 50
+  },
+  {
+    "id": 2,
+    "treatment": "Dental Filling",
+    "image": "https://i.ibb.co/1Ryg7sw/premium-photo-1672922646298-3afc6c6397c9.webp",
+    "description": "A dental filling is a restorative procedure used to repair teeth that have been damaged by decay or minor fractures. During the process, the decayed part of the tooth is removed, and a filling material like composite resin, amalgam, or ceramic is applied to restore the tooth's shape, function, and integrity. This helps prevent further decay and strengthens the tooth.",
+    "cost": 100
+  },
+  {
+    "id": 3,
+    "treatment": "Root Canal Treatment",
+    "image": "https://i.ibb.co/hY7mkgV/premium-photo-1675686363507-22a8d0e11b4c.webp",
+    "description": "Root canal treatment is a specialized dental procedure aimed at repairing and saving a tooth that is severely decayed, damaged, or infected. The process involves removing the infected pulp tissue inside the tooth, cleaning and disinfecting the root canal, and sealing it with a filling or crown. This treatment alleviates pain, prevents infection from spreading, and restores normal tooth function.",
+    "cost": 300
+  },
+  {
+    "id": 4,
+    "treatment": "Teeth Whitening",
+    "image": "https://i.ibb.co/FDDSFbr/premium-photo-1681966962522-546f370bc98e.webp",
+    "description": "Teeth whitening is a popular cosmetic dental procedure designed to remove stains and discoloration from your teeth, leaving them visibly brighter and whiter. Using bleaching agents like hydrogen peroxide, this treatment enhances your smile's aesthetics and boosts your confidence. It's a safe, non-invasive option to achieve a radiant and youthful appearance.",
+    "cost": 150
+  },
+  {
+    "id": 5,
+    "treatment": "Braces",
+    "image": "https://i.ibb.co/XZrD1yQ/photo-1562330743-68bbbac25eff.webp",
+    "description": "Braces are orthodontic devices used to align and straighten teeth, as well as correct bite issues such as overbite, underbite, and overcrowding. This treatment involves attaching brackets to the teeth and connecting them with wires, which apply gentle pressure to guide the teeth into the correct position over time. Braces improve both oral functionality and appearance.",
+    "cost": 2000
+  },
+  {
+    "id": 6,
+    "treatment": "Dental Implant",
+    "image": "https://i.ibb.co/zH0qWQ4/photo-1562330743-fbc6ef07ca78.webp",
+    "description": "Dental implants are a durable and long-lasting solution for replacing missing teeth. The procedure involves surgically placing a titanium post into the jawbone, which acts as an artificial tooth root. Once healed, a custom-made crown is attached to the implant, restoring the appearance and functionality of natural teeth. Implants enhance chewing, speech, and confidence.",
+    "cost": 2500
+  },
+  {
+    "id": 7,
+    "treatment": "Wisdom Tooth Extraction",
+    "image": "https://i.ibb.co/WsxfgZj/photo-1468493858157-0da44aaf1d13.webp",
+    "description": "Wisdom tooth extraction is a common dental procedure to remove one or more problematic wisdom teeth, which often cause pain, swelling, or infection. The extraction helps prevent complications such as overcrowding, tooth decay, or gum disease. This treatment ensures long-term oral health and provides relief from discomfort associated with impacted teeth.",
+    "cost": 300
+  },
+  {
+    "id": 8,
+    "treatment": "Gum Surgery",
+    "image": "https://i.ibb.co/bQqCBVV/photo-1525893277997-207c04d47d65.webp",
+    "description": "Gum surgery, or periodontal surgery, is performed to treat advanced gum disease or improve the aesthetic appearance of your gums. The procedure involves reshaping or removing diseased tissue, reducing gum pockets, and sometimes grafting new tissue to restore healthy gums. It helps protect teeth and enhances overall oral health.",
+    "cost": 500
+  },
+  {
+    "id": 9,
+    "treatment": "Dental Veneers",
+    "image": "https://i.ibb.co/ZxSRdvn/photo-1564420228450-d9a5bc8d6565.webp",
+    "description": "Dental veneers are thin, custom-made shells crafted to cover the front surface of teeth. Made from materials like porcelain or resin composite, veneers enhance the appearance of teeth by correcting discoloration, chips, or gaps. This cosmetic solution provides a natural look, improved smile, and long-lasting results.",
+    "cost": 800
+  }
+]
